@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Drag and Drop Shopping Cart</title>
+	<link rel="stylesheet" href="htmldemodraganddrop.css" />
+</head>
+<body>
+	<!-- icons from  http://www.iconfinder.net/search/?q=iconset:superpack | author site : http://officinadigitale.forumcommunity.net/-->
+	<ul id="products">
+		<li><a class="item" href="#" id="imac" draggable="true">
+			<img src="images/imac.png" />
+			<div>
+				<p><strong>iMac</strong></p>
+				<p><strong>Price</strong>: <span>$1199.00</span></p>
+				<p><strong>Quantity</strong>: <span>10</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="iphone" draggable="true">
+			<img src="images/iphone.png" />
+			<div>
+				<p><strong>iPhone</strong></p>
+				<p><strong>Price</strong>: <span>$199.00</span></p>
+				<p><strong>Quantity</strong>: <span>16</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="appletv" draggable="true">
+			<img src="images/appletv.png" />
+			<div>
+				<p><strong>AppleTV</strong></p>
+				<p><strong>Price</strong>: <span>$299.00</span></p>
+				<p><strong>Quantity</strong>: <span>9</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="dislpay" draggable="true">
+			<img src="images/display.png" />
+			<div>
+				<p><strong>Cinema Display</strong></p>
+				<p><strong>Price</strong>: <span>$899.00</span></p>
+				<p><strong>Quantity</strong>: <span>4</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="nano" draggable="true">
+			<img src="images/nano.png" />
+			<div>
+				<p><strong>iPod Nano</strong></p>
+				<p><strong>Price</strong>: <span>$149.00</span></p>
+				<p><strong>Quantity</strong>: <span>20</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="macbook" draggable="true">
+			<img src="images/macbook.png" />
+			<div>
+				<p><strong>Macbook</strong></p>
+				<p><strong>Price</strong>: <span>$1199.00</span></p>
+				<p><strong>Quantity</strong>: <span>13</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="mini" draggable="true">
+			<img src="images/mini.png" />
+			<div>
+				<p><strong>Mac Mini</strong></p>
+				<p><strong>Price</strong>: <span>$599.00</span></p>
+				<p><strong>Quantity</strong>: <span>18</span></p>
+			</div>
+		</a></li>
+	</ul>
+	<div id="cart">
+		<h1>Shopping Cart</h1>
+		<ul></ul>
+		<p id="total"><strong>Total:</strong> $<span>0.00</span></p>
+		<h2>Drop here to add to cart</h2>
+	</div>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script src="jquery.ndd.js"></script>
+	<script src="jsdemodraganddrop.js"></script>
+</body>
+</html>

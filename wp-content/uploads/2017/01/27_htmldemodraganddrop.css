@@ -1,0 +1,165 @@
+html {
+	height:100%;
+}
+body {
+	background: #ececec;
+	margin:0;
+	padding:0;
+	font: 13px/1.5 helvetica, arial, san-serif;
+	height: 100%;
+}
+h1, h2 { text-align:center; }
+h2 {
+	position:absolute;
+	bottom: 20px;
+	color:#fff;
+	text-shadow:0 0 10px rgba(0, 0, 0, 0.75);
+	display:none;
+}
+p { margin:0; }
+
+[draggable=true] {
+	cursor: move;
+}
+.nav{
+	background-color:black; height:60px; padding:0;margin:0;
+	border-bottom:3px solid #3476D5;
+
+	z-index: 5;
+
+}
+#image_bedroom{
+
+}
+#drop_zone{
+	height:100%;
+	min-height:100px;
+}
+.products{
+	height:100%;
+	background-color:white;
+	padding-right:0!important;
+}
+.cart{
+	background-color: white;
+	height:100%;
+}
+.bg{
+	height:100%;
+	background: url(images/lr.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.list-item{
+	height:80px;
+	padding:5px;
+}
+#item-type-list-wrapper{
+	margin-top:8%;
+	background-color: black;
+	//visibility:hidden;;
+	height:500px;
+}
+#item-type-list li{
+	height: 10%;
+	color:white;
+	width:100%;
+}
+.item-heading{
+	padding-top:13px;
+	font-size:17px;
+	font-weight: bold;
+}
+.item-image{
+	padding-top: 13px;
+}
+#single-item{
+	color:white;
+	padding:15px;
+}
+.item-price{
+color:#3476D5;
+}
+#product_list li{
+	font-size:17px;
+	color:White;
+	padding:12px;
+	height:50px;
+	width:100%;
+	background-color:#3476D5;
+}
+#product_list li:hover{
+	background-color: #000000;
+	color:#3476D5;
+}
+#item-type-list,
+#product_list,
+#products {
+
+	float:left;
+	list-style:none;
+	width:100%;
+	padding:0;
+}
+#products li {
+	display:inline;
+}
+.item {
+	display:block;
+	float:left;
+	width:180px;
+	height:30px;
+	margin:10px;
+	border:1px solid #494949;
+	text-align:center;
+	text-decoration:none;
+	color: #000;
+	overflow:hidden;
+}
+.item img {
+	border:0;
+	margin:10px auto;
+	width:160px;
+	height:160px;
+}
+.item div {
+	background:rgb(0, 0, 0);
+	background: rgba(0, 0, 0, 0.5);
+	position:relative;
+	bottom:69px;
+	color:#f3f3f3;
+	padding:5px 0;
+	display:none;
+}
+#cart {
+
+
+
+	padding:0 5%;
+	height:100%;
+}
+#cart ul {
+	padding:0;
+}
+#cart li {
+	list-style:none;
+	border-bottom:1px solid #494949;
+	padding:5px;
+}
+#cart .quantity {
+	font-weight:bold;
+	padding-right:10px;
+	margin-right:10px;
+	border-right:1px solid #494949;
+	display:inline-block;
+	width:15px;
+	text-align:right;
+}
+#cart .price {
+	float:right;
+}
+#total {
+	float:right;
+}

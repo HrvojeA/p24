@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b46ca6d4-6c9d-4a7e-8183-6211cd1790ad" name="ecard_web" url="http://ecard.ba">
+        <fileTransfer host="ecard.ba" port="21" password="dfc2dfcbdfc0dfcedfdfdfc1df9bdf98df99df9b" username="ecard_ba@ecard.ba">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="fb7e1357-7873-4fc2-b22d-304b2774f3a2" name="prevedi24.antunovichrvoje.com" url="http://kristinamilicevic.com">
+        <fileTransfer host="kristinamilicevic.com" port="21" username="hrvojeA@kristinamilicevic.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,1190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mail Booster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-01-21 14:10+0530\n"
+"PO-Revision-Date: 2017-01-21 14:10+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Greek (Greece)\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 18545\n"
+"X-Loco-Api-Version: 1.0.15 20161010-2\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/translations.php:32
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Αυτή η λειτουργία είναι διαθέσιμη μόνο σε Premium Εκδόσεις! <br> "
+"Παρακαλείστε να αγοράσετε για να ξεκλειδώσετε!"
+
+#: includes/translations.php:35
+msgid "Basic Info"
+msgstr "Βασικές Πληροφορίες"
+
+#: includes/translations.php:36
+msgid "Account Setup"
+msgstr "Ρύθμιση Λογαριασμού"
+
+#: includes/translations.php:37
+msgid "Confirm"
+msgstr "Επιβεβαίωση"
+
+#: includes/translations.php:40 includes/translations.php:69
+msgid "Mail Booster"
+msgstr ""
+
+#: includes/translations.php:41
+msgid "Email Configuration"
+msgstr "Ρύθμιση Email"
+
+#: includes/translations.php:42
+msgid "Email Logs"
+msgstr "Αρχείο Καταγραφής Email"
+
+#: includes/translations.php:43
+msgid "Email Log Details"
+msgstr "Λεπτομέρειες Αρχείου Καταγραφής Email"
+
+#: includes/translations.php:44
+msgid "Plugin Settings"
+msgstr "Ρυθμίσεις Πρόσθετου"
+
+#: includes/translations.php:45
+msgid "Feedbacks"
+msgstr "Ανατροφοδοτήσεις"
+
+#: includes/translations.php:46
+msgid "Roles & Capabilities"
+msgstr "Ρόλοι & Δυνατότητες"
+
+#: includes/translations.php:47
+msgid "System Information"
+msgstr "Πληροφορίες Συστήματος"
+
+#: includes/translations.php:50
+msgid "Success!"
+msgstr "Επιτυχία!"
+
+#: includes/translations.php:51
+msgid "Email Configuration has been updated Successfully"
+msgstr "Η ρύθμιση του Email έχει ενημερωθεί με Επιτυχία"
+
+#: includes/translations.php:52
+msgid "Your Feedback has been sent Successfully"
+msgstr "Η Ανατροφοδότηση σας εστάλει με Επιτυχία"
+
+#: includes/translations.php:53
+msgid "Your request email has been sent Successfully"
+msgstr "Το Email με το αίτημα μας εστάλει με Επιτυχία"
+
+#: includes/translations.php:54
+msgid "Roles & Capabilities have been updated Successfully"
+msgstr "Οι Ρόλοι & Δυνατότητες έχουν ενημερωθεί με Επιτυχία"
+
+#: includes/translations.php:55
+msgid "Test Email was sent Successfully!"
+msgstr "Το Δοκιμαστικό Email εστάλει με Επιτυχία!"
+
+#: includes/translations.php:56
+msgid "Test Email was not sent!"
+msgstr "Το Δοκιμαστικό Email δεν εστάλει!"
+
+#: includes/translations.php:57
+msgid "Plugin Settings have been updated Successfully"
+msgstr "Η Ρυθμίσεις του Πρόσθετου ενημερώθηκαν με Επιτυχία"
+
+#: includes/translations.php:58
+msgid "Please choose an Action from Dropdown!"
+msgstr "Παρακαλώ επιλέξτε μια Ενέργεια απο το Κουμπάκι!"
+
+#: includes/translations.php:59
+msgid "Please choose at least 1 record to delete!"
+msgstr "Παρακαλώ επιλέξτε τουλάχιστον 1 καταχώρηση για διαγραφή!"
+
+#: includes/translations.php:60
+msgid "Are you sure you want to delete Email Logs?"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να διαγράψετε τα Αρχεία Καταγραφής των Email?"
+
+#: includes/translations.php:61
+msgid "Selected Logs have been deleted Successfully"
+msgstr "Τα επιλεγμένα Αρχεία Καταγραφής έχουν διαγραφεί με Επιτυχία"
+
+#: includes/translations.php:62
+msgid "Are you sure you want to delete Email Log?"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να διαγράψετε το Αρχείο Καταγραφής των Email?"
+
+#: includes/translations.php:63
+msgid "Email Log has been deleted Successfully"
+msgstr "Το Αρχείο Καταγραφής Email έχει διαγραφεί με Επιτυχία"
+
+#: includes/translations.php:64
+msgid ""
+"The OAuth is not supported by providing SMTP Host, kindly provide username "
+"and password"
+msgstr ""
+"Το OAuth δεν υποστηρίζετε απο τον πάροχο Φιλοξενίας SMTP, εάν έχετε την "
+"ευγενή καλοσύνη, εισάγετε το Όνομα Χρήστη και τον Κωδικό"
+
+#: includes/translations.php:65
+msgid "Invalid Secret Key. Please rectify and try again!"
+msgstr "Λανθασμένο Μυστικό Κλειδί. Παρακαλώ διορθώστε και δοκιμάστε ξανά!"
+
+#: includes/translations.php:66
+msgid "Premium Editions"
+msgstr "Premium Εκδόσεις"
+
+#: includes/translations.php:70
+msgid "Sent"
+msgstr "Απεστάλλει"
+
+#: includes/translations.php:71
+msgid "Not Sent"
+msgstr "Δεν έχει Αποσταλλεί"
+
+#: includes/translations.php:72
+msgid "Important Disclaimer!"
+msgstr "Σημαντική Δήλωση!"
+
+#: includes/translations.php:73
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Δεν έχετε Επαρκή Πρόσβαση στην συγκεκριμένη σελίδα. Εάν έχετε την ευγενή "
+"καλοσύνη, επικοινωνήστε με τον Διαχειριστή για περισσότερα Προνόμια"
+
+#: includes/translations.php:74
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: includes/translations.php:75
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+#: includes/translations.php:76
+msgid "Override"
+msgstr "Παράκαμψη"
+
+#: includes/translations.php:77
+msgid "Don't Override"
+msgstr "Μην Παρακάμπτεις"
+
+#: includes/translations.php:78
+msgid "Save Settings"
+msgstr "Αποθήκευση Ρυθμίσεων"
+
+#: includes/translations.php:79
+msgid "Subject"
+msgstr "Θέμα"
+
+#: includes/translations.php:80
+msgid "Next Step"
+msgstr "Επόμενο Βήμα"
+
+#: includes/translations.php:81
+msgid "Previous Step"
+msgstr "Προηγούμενο Βήμα"
+
+#: includes/translations.php:82
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: includes/translations.php:83
+msgid "Not available"
+msgstr "Μη Διαθέσιμο"
+
+#: includes/translations.php:84
+msgid ""
+"The following php extensions are not found on your server or are currently "
+"disabled. These might create few problems in configuring Mail Booster. "
+"Please contact your WebHost to setup these extensions on your server."
+msgstr ""
+"Οι ακόλουθες επεκτάσεις php δεν βρίσκονται στον server σας ή είναι "
+"απενεργοποιημένες. Αυτά μπορεί να δημιουργήσει μερικά προβλήματα στην "
+"διαμόρφωση Mail Booster. Παρακαλούμε επικοινωνήστε με WebHost σας για να "
+"ρυθμίσετε αυτές τις επεκτάσεις στο διακομιστή σας."
+
+#: includes/translations.php:87
+msgid "Cc"
+msgstr "Cc"
+
+#: includes/translations.php:88
+msgid "Bcc"
+msgstr "Bcc"
+
+#: includes/translations.php:89
+msgid "Please provide valid Cc Email Address"
+msgstr "Παρακαλώ εισάγετε έγκυρη Cc διεύθυνση Email"
+
+#: includes/translations.php:90
+msgid "Please provide valid Bcc Email Address"
+msgstr "Παρακαλώ εισάγετε έγκυρη Bcc διεύθυνση Email"
+
+#: includes/translations.php:91
+msgid "Please provide Cc Email"
+msgstr "Παρακαλώ εισάγετε Cc διεύθυνση Email"
+
+#: includes/translations.php:92
+msgid "Please provide Bcc Email"
+msgstr "Παρακαλώ εισάγετε Bcc διεύθυνση Email"
+
+#: includes/translations.php:93
+msgid "Mailer Settings"
+msgstr "Ρύθμιση Αποστολέα Mail"
+
+#: includes/translations.php:94
+msgid "From Name"
+msgstr "Από Όνομα"
+
+#: includes/translations.php:95
+msgid ""
+"From Name is the inbox field that tells your recipient who sent the "
+"messages. If you would like to override the pre-configured From Name, then "
+"you would need to insert the name in the inbox field"
+msgstr ""
+"Από Όνομα είναι το πεδίο όπου λέει στον παραλήπτη σας ποιος έστειλε τα "
+"μηνύματα. Εάν επιθυμείτε να παρακάμψετε το προεπιλεγμένο Από Όνομα, τότε θα "
+"πρέπει να εισάγετε το όνομα στο πεδίο"
+
+#: includes/translations.php:96
+msgid "Please provide From Name"
+msgstr "Παρακαλώ εισάγετε Από Όνομα"
+
+#: includes/translations.php:97
+msgid "From Email"
+msgstr "Από Email"
+
+#: includes/translations.php:98
+msgid ""
+"From Email is the inbox field that tells your recipient from which Email "
+"Address the messages are coming. If you would like to override the pre-"
+"configured From Email, then you would need to insert an Email Address in the "
+"inbox field"
+msgstr ""
+"Από Email είναι το πεδίο όπου λέει στον παραλήπτη σας απο ποια διεύθυνση "
+"Email εστάλησαν τα μηνύματα. Εάν επιθυμείτε να παρακάμψετε το προεπιλεγμένο "
+"Από Email, τότε θα πρέπει να εισάγετε μια διεύθυνση Email στο πεδίο"
+
+#: includes/translations.php:99
+msgid "Please provide From Email Address"
+msgstr "Παρακαλώ εισάγετε Από Email διεύθυνση"
+
+#: includes/translations.php:100
+msgid "Mailer Type"
+msgstr "Τύπος Αποστολέα Mail"
+
+#: includes/translations.php:101
+msgid ""
+"This field provides you an ability to choose a specific option for Mailer "
+"Type. If you would like to send an Email via SMTP mailer, you would need to "
+"select Send Email via SMTP from the drop down or you could use PHP mail () "
+"Function"
+msgstr ""
+"Αυτό το πεδίο σας παρέχει τη δυνατότητα να επιλέξετε μια συγκεκριμένη "
+"επιλογή για Τύπο Αποστολέα Mail. Εάν επιθυμείτε να στέλνετε Email μέσω "
+"Αποστολέα Mail SMTP, τότε χρειάζεται να επιλέξετε Αποστολή Email μέσω SMTP "
+"απο το κουμπάκι ή μπορείτε να χρησιμοποιήσετε την λειτουργία PHP mail()"
+
+#: includes/translations.php:102
+msgid "Send Email via SMTP"
+msgstr "Αποστολή Email μέσω SMTP"
+
+#: includes/translations.php:103
+msgid "Use The PHP mail() Function"
+msgstr "Χρήση της λειτουργίας PHP mail()"
+
+#: includes/translations.php:104
+msgid "SMTP Host"
+msgstr "Φιλοξενητής SMTP"
+
+#: includes/translations.php:105
+msgid ""
+"If you would like to send an Email via different host, you would need to "
+"insert that specific host name like smtp.gmail.com in the inbox field"
+msgstr ""
+"Εάν επιθυμείτε να στέλνετε Email μέσω διαφορετικού φιλοξενητή, τότε "
+"χρειάζεται να εισάγετε ένα συγκεκριμένο όνομα φιλοξενητή όπως το smtp.gmail."
+"com στο πεδίο"
+
+#: includes/translations.php:106
+msgid "Please provide SMTP Host"
+msgstr "Παρακαλώ εισάγετε Φιλοξενητή SMTP"
+
+#: includes/translations.php:107
+msgid "SMTP Port"
+msgstr "Πύλη SMTP"
+
+#: includes/translations.php:108
+msgid ""
+"This inbox field is specified to provide a valid SMTP Port for authentication"
+msgstr ""
+"Αυτό το πεδίο είναι συγκεκριμένα για την παροχή μιας έγκυρης Πύλης SMTP για "
+"την επαλήθευση"
+
+#: includes/translations.php:109
+msgid "Please provide SMTP Port"
+msgstr "Παρακαλώ εισάγετε Πύλη SMTP"
+
+#: includes/translations.php:110
+msgid "Encryption"
+msgstr "Κρυπτογράφηση"
+
+#: includes/translations.php:111
+msgid ""
+"It provides you an ability to choose a specific option for Encryption. If "
+"you would like to send an Email with TLS encryption, you would need to "
+"select Use TLS Encryption from the drop down or you could use SSL "
+"Encryption. For that you would need to select Use SSL Encryption from the "
+"drop down. If you would like to send an Email without encryption, you would "
+"need to select No Encryption from the drop down"
+msgstr ""
+"Σας παρέχει τη δυνατότητα να επιλέξετε μια συγκεκριμένη επιλογή για "
+"Κρυπτογράφηση. Εάν επιθυμείτε να στέλνετε Email μέσω TLS Κρυπτογράφησης, "
+"τότε χρειάζεται να επιλέξετε την Χρήση Κρυπτογράφησης TLS απο το κουμπάκι ή "
+"μπορείτε να επιλέξετε Χρήση Κρυπτογράφησης SSL απο το κουμπάκι. Εάν "
+"επιθυμείτε να στέλνετε Email χωρίς κρυπτογράφηση, θα χρειαστεί να επιλέξετε "
+"Χωρίς Κρυπτογράφηση απο το κουμπάκι"
+
+#: includes/translations.php:112
+msgid "No Encryption"
+msgstr "Χωρίς Κρυπτογράφηση"
+
+#: includes/translations.php:113
+msgid "Use SSL Encryption"
+msgstr "Χρήση Κρυπτογράφησης SSL"
+
+#: includes/translations.php:114
+msgid "Use TLS Encryption"
+msgstr "Χρήση Κρυπτογράφησης TLS"
+
+#: includes/translations.php:115
+msgid "Authentication"
+msgstr "Επαλήθευση"
+
+#: includes/translations.php:116
+msgid ""
+"This inbox field allows you to choose an appropriate option for "
+"authentication. It provides you the Two-way authentication factor; If you "
+"would like to authenticate yourself via Username and Password, you would "
+"need to select Use Username and Password from the drop down. You can also "
+"authenticate by an OAuth 2.0 protocol, which requires Client Id and Secret "
+"Key, for that you would need to select Use OAuth (Client ID and Secret Key) "
+"from the drop down. You can easily get Client Id and Secret Key from "
+"respective SMTP Server Developers section"
+msgstr ""
+"Το πεδίο αυτό σας επιτρέπει να χρησιμοποιήσετε ένα κατάλληλο τρόπο για "
+"επαλήθευση. Σας παρέχει τη δυνατότητα Διπλής Επαλήθευσης; Εάν επιθυμείτε να "
+"επαληθεύσετε τον εαυτό σας μέσω Ονόματος Χρήστη και Κωδικού, θα πρέπει να "
+"επιλέξετε Χρήση Ονόματος Χρήστη και Κωδικού απο το κουμπάκι. Μπορείτε επίσης "
+"να επαληθεύσετε μέσω πρωτοκόλλου OAuth 2.0, όπου απαιτεί ID Πελάτη και "
+"Μυστικού Κλειδιού, γι'αυτό θα χρειαστεί να επιλέξετε Χρήση OAuth (ID Πελάτη "
+"και Μυστικό Κλειδί) απο το κουμπάκι. Μπορείτε εύκολα να παραλάβετε ID Πελάτη "
+"και Μυστικό Κλειδί στην ενότητα για Προγραμματιστές απο τον αντίστοιχο "
+"Εξυπηρετητή SMTP"
+
+#: includes/translations.php:117
+msgid "Use SMTP Authentication"
+msgstr "Χρήση Επαλήθευσης SMTP"
+
+#: includes/translations.php:118
+msgid "Don't Use SMTP Authentication"
+msgstr "Μην Χρησιμοποιήστε Επαλήθευση SMTP"
+
+#: includes/translations.php:119
+msgid "Test Email Address"
+msgstr "Δοκιμή Διεύθυνσης Email"
+
+#: includes/translations.php:120
+msgid ""
+"In this field, you would need to provide a valid Email Address in the inbox "
+"field on which you would like to receive Test email"
+msgstr ""
+"Στο πεδίο αυτό, θα χρειαστεί να εισάγετε μια έγκυρη διεύθυνση Email όπου θα "
+"θέλατε να λάβετε το Δοκιμαστικό email"
+
+#: includes/translations.php:121
+msgid "Please provide Test Email Address"
+msgstr "Παρακαλώ εισάγετε Δοκιμαστική Διεύθυνση Email"
+
+#: includes/translations.php:122
+msgid "In this field, you would need to provide a subject for Test Email"
+msgstr ""
+"Στο πεδίο αυτό, θα χρειαστεί να εισάγετε ένα Θέμα για το Δοκιμαστικό Email"
+
+#: includes/translations.php:123
+msgid "Please provide Subject"
+msgstr "Παρακαλώ εισάγετε ένα Θέμα"
+
+#: includes/translations.php:124
+msgid "Email Content"
+msgstr "Περιεχόμενο Email"
+
+#: includes/translations.php:125
+msgid "In this field, you would need to provide the content for Test Email"
+msgstr ""
+"Στο πεδίο αυτό, θα χρειαστεί να εισάγετε το Περιεχόμενο για το Δοκιμαστικό "
+"Email"
+
+#: includes/translations.php:126
+msgid "Send Test Email"
+msgstr "Αποστολή Δοκιμαστικού Email"
+
+#: includes/translations.php:127
+msgid "SMTP Debugging Output"
+msgstr "Έξοδος εντοπισμού σφάματων SMTP"
+
+#: includes/translations.php:128
+msgid "Checking your settings"
+msgstr "Ελέγχουμε τις ρυθμίσεις σας"
+
+#: includes/translations.php:129
+msgid "Result"
+msgstr "Αποτέλεσμα"
+
+#: includes/translations.php:130
+msgid "Send Another Test Email"
+msgstr "Αποστολή άλλου Δοκιμαστικού Email"
+
+#: includes/translations.php:131
+msgid "From Name Configuration"
+msgstr "Από Όνομα Ρύθμιση"
+
+#: includes/translations.php:132
+msgid ""
+"If you would like to override the pre-configured name which will be used "
+"while sending Emails, then you would need to choose Override from the drop "
+"down and vice-versa"
+msgstr ""
+"Εάν θέλετε να παρακάμψετε το προεπιλεγμένο όνομα το οποίο θα χρησιμοποιηθεί "
+"κατά την αποστολή Email, τότε θα χρειαστεί να επιλέξετε Παράκαμψη στο "
+"παρακάτω κουτάκι ή το αντίθετο"
+
+#: includes/translations.php:133
+msgid "From Email Configuration"
+msgstr "Από Email Ρύθμιση"
+
+#: includes/translations.php:134
+msgid ""
+"If you would like to override your pre-configured Email Address which will "
+"be used while sending Emails, then you would need to choose Override from "
+"the drop down and vice-versa"
+msgstr ""
+"Εάν θέλετε να παρακάμψετε την προεπιλεγμένη διεύθυνση Email σας που θα "
+"χρησιμοποιηθεί κατά την αποστολή Email, θα χρειαστεί να επιλέξετε Παράκαμψη "
+"στο παρακάτω κουτάκι ή το αντίθετο"
+
+#: includes/translations.php:135
+msgid "Username"
+msgstr "Όνομα Χρήστη"
+
+#: includes/translations.php:136
+msgid ""
+"In this field, you would need to provide a username to authenticate your "
+"SMTP details"
+msgstr ""
+"Στο πεδίο αυτό, θα χρειαστεί να εισάγετε ένα όνομα χρήστη για την επαλήθευση "
+"των SMTP ρυθμίσεων σας"
+
+#: includes/translations.php:137
+msgid "Please provide username"
+msgstr "Παρακαλώ εισάγετε όνομα χρήστη"
+
+#: includes/translations.php:138
+msgid "Password"
+msgstr "Κωδικός"
+
+#: includes/translations.php:139
+msgid ""
+"In this field, you would need to provide a password to authenticate your "
+"SMTP details"
+msgstr ""
+"Στο πεδίο αυτό, θα χρειαστεί να εισάγετε ένα κωδικό για την επαλήθευση των "
+"SMTP ρυθμίσεων σας"
+
+#: includes/translations.php:140
+msgid "Please provide password"
+msgstr "Παρακαλώ εισάγετε κωδικό"
+
+#: includes/translations.php:141
+msgid "Redirect URI"
+msgstr "Ανακατεύθυνση URI"
+
+#: includes/translations.php:142
+msgid ""
+"Please copy this Redirect URI and Paste into Redirect URI field when "
+"creating your app"
+msgstr ""
+"Παρακαλώ αντιγράψτε αυτό το Ανακατευθυνόμενο URI και επικολλήστε το στο "
+"πεδίο Ανακατεύθυνση URI κατά τη δημιουργία της εφαρμογής σας"
+
+#: includes/translations.php:143
+msgid "Use OAuth (Client Id and Secret Key required)"
+msgstr "Χρήση OAuth (απαιτείται ID Πελάτη και Μυστικό Κλειδί)"
+
+#: includes/translations.php:144
+msgid "Plain Authentication"
+msgstr "Απλή Επαλήθευση"
+
+#: includes/translations.php:145
+msgid "Cram-MD5"
+msgstr "Cram-MD5"
+
+#: includes/translations.php:146
+msgid "Login"
+msgstr "Είσοδος"
+
+#: includes/translations.php:147
+msgid "Client Id"
+msgstr "ID Πελάτη"
+
+#: includes/translations.php:148
+msgid "Secret Key"
+msgstr "Μυστικό Κλειδί"
+
+#: includes/translations.php:149
+msgid "Please provide valid Client Id issued by your SMTP Host"
+msgstr ""
+"Παρακαλώ εισάγετε ένα έγκυρο ID Πελάτη όπου εκδόθηκε απο τον Φιλοξενητή SMTP "
+"σας"
+
+#: includes/translations.php:150
+msgid "Please provide valid Secret Key issued by your SMTP Host"
+msgstr ""
+"Παρακαλώ εισάγετε ένα έγκυρο Μυστικό Κλειδί όπου εκδόθηκε απο τον Φιλοξενητή "
+"SMTP σας"
+
+#: includes/translations.php:151
+msgid "Please provide Client Id"
+msgstr "Παρακαλώ εισάγετε ID Πελάτη"
+
+#: includes/translations.php:152
+msgid "Please provide Secret Key"
+msgstr "Παρακαλώ εισάγετε Μυστικό Κλειδί"
+
+#: includes/translations.php:153
+msgid ""
+"Yes, automatically send a Test Email upon clicking on the Next Step Button "
+"to verify settings"
+msgstr ""
+"Ναι, αυτόματη αποστολή Δοκιμαστικού Email κατά την επιλογή του κουμπιού "
+"Επόμενο Βήμα για την επιβεβαίωση των ρυθμίσεων"
+
+#: includes/translations.php:154
+msgid "Email Address"
+msgstr "Διεύθυνση Email"
+
+#: includes/translations.php:155
+msgid ""
+"In this field, you would need to add a valid Email Address in the inbox "
+"field from which you would like to send Emails"
+msgstr ""
+"Στο πεδίο αυτό, θα χρειαστεί να εισάγετε μια έγκυρη διεύθυνση Email στο "
+"πεδίο από το οποίο θα θέλατε να αποστείλετε Email"
+
+#: includes/translations.php:156
+msgid "Please provide valid Email Address"
+msgstr "Παρακαλώ εισάγετε μια έγκυρη διεύθυνση Email"
+
+#: includes/translations.php:157
+msgid "Reply To"
+msgstr "Απάντηση Σε"
+
+#: includes/translations.php:158
+msgid ""
+"In this field, you would need to add a valid Email Address that is "
+"automatically inserted into the Reply To field when a user replies to an "
+"email message"
+msgstr ""
+"Στο πεδίο αυτό, θα χρειαστεί να εισάγετε μια έγκυρη διεύθυνση Email η οποία "
+"θα εισάγετε αυτόματα στο πεδίο Απάντηση Σε όταν κάποιος χρήστης απαντάει σε "
+"κάποιο μήνυμα Email"
+
+#: includes/translations.php:159
+msgid "Please provide Reply To Email Address"
+msgstr "Παρακαλώ εισάγετε Απάντηση Σε διεύθυνση Email"
+
+#: includes/translations.php:160
+msgid "Get Google Client Id and Secret Key"
+msgstr "Απόκτηση ID Πελάτη και Μυστικού Κλειδιού απο την Google"
+
+#: includes/translations.php:161
+msgid "Get Microsoft Client Id and Secret Key"
+msgstr "Απόκτηση ID Πελάτη και Μυστικού Κλειδιού απο τη Microsoft"
+
+#: includes/translations.php:162
+msgid "Get Yahoo Client Id and Secret Key"
+msgstr "Απόκτηση ID Πελάτη και Μυστικού Κλειδιού απο την Yahoo"
+
+#: includes/translations.php:165
+msgid "Start Date"
+msgstr "Αρχική Ημερομηνία"
+
+#: includes/translations.php:166
+msgid "Please provide Start Date"
+msgstr "Παρακαλώ εισάγετε Αρχική Ημερομηνία"
+
+#: includes/translations.php:167
+msgid "This field shows starting date of Email Logs"
+msgstr ""
+"Αυτό το πεδίο δείχνει την αρχική ημερομηνία των Αρχείων Καταγραφής Email"
+
+#: includes/translations.php:168
+msgid "End Date"
+msgstr "Τελική Ημερομηνία"
+
+#: includes/translations.php:169
+msgid "Please provide End Date"
+msgstr "Παρακαλώ εισάγετε Τελική Ημερομηνία"
+
+#: includes/translations.php:170
+msgid "This field shows ending date of Email Logs"
+msgstr ""
+"Αυτό το πεδίο δείχνει την τελική ημερομηνία των Αρχείων Καταγραφής Email"
+
+#: includes/translations.php:171
+msgid "Submit"
+msgstr "Υποβολή"
+
+#: includes/translations.php:172
+msgid "Bulk Action"
+msgstr "Μαζική Ενέργεια"
+
+#: includes/translations.php:173
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: includes/translations.php:174
+msgid "Apply"
+msgstr "Εφαρμογή"
+
+#: includes/translations.php:175
+msgid "Email To"
+msgstr "Email Σε"
+
+#: includes/translations.php:176
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: includes/translations.php:177
+msgid "Show Details"
+msgstr "Δείξε Λεπτομέρειες"
+
+#: includes/translations.php:178
+msgid "Email Details"
+msgstr "Λεπτομέρειες Email"
+
+#: includes/translations.php:179
+msgid "Email Debugging output"
+msgstr "Έξοδος Εντοπισμού Σφαλμάτων Email"
+
+#: includes/translations.php:180
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: includes/translations.php:181
+msgid "Debugging Output"
+msgstr "Έξοδος Εντοπισμού Σφαλμάτων"
+
+#: includes/translations.php:182
+msgid "Show Debugging Output"
+msgstr "Προβολή Εξόδου Εντοπισμού Σφαλμάτων"
+
+#: includes/translations.php:183
+msgid "Email Sent To"
+msgstr "Email Εστάλει σε"
+
+#: includes/translations.php:184
+msgid "Date/Time"
+msgstr "Ημερομηνία/Ώρα"
+
+#: includes/translations.php:185
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: includes/translations.php:186
+msgid "From"
+msgstr "Από"
+
+#: includes/translations.php:187
+msgid "Back to Email Logs"
+msgstr "Πίσω στο Αρχείο Καταγραφής Email"
+
+#: includes/translations.php:190
+msgid "Automatic Plugin Updates"
+msgstr "Αυτόματες Ενημέρωσεις Πρόσθετου"
+
+#: includes/translations.php:191
+msgid ""
+"Please choose a specific option whether to allow Automatic Plugin Updates"
+msgstr ""
+"Παρακαλώ επιλέξτε μια συγκεκριμένη επιλογή εάν επιτρέπετε τις Αυτόματες "
+"Ενημέρωσεις του Πρόσθετου ή όχι"
+
+#: includes/translations.php:192
+msgid "Debug Mode"
+msgstr "Λειτουργία Εντοπισμού Σφαλμάτων"
+
+#: includes/translations.php:193
+msgid "Please choose a specific option for Debug Mode"
+msgstr ""
+"Παρακαλώ επιλέξτε μια συγκεκριμένη επιλογή για την Λειτουργία Εντοπισμού "
+"Σφαλμάτων"
+
+#: includes/translations.php:194
+msgid "Remove Tables at Uninstall"
+msgstr "Απομάκρυνση Πινάκων κατά την Απεγκατάσταση"
+
+#: includes/translations.php:195
+msgid ""
+"Please choose a specific option whether to allow Remove Tables at Uninstall"
+msgstr ""
+"Παρακαλώ επιλέξτε μια συγκεκριμένη επιλογή εάν επιτρέπετε την Απομάκρυνση "
+"Πινάκων κατά την Απεγκατάσταση ή όχι"
+
+#: includes/translations.php:196
+msgid "Monitoring Email Logs"
+msgstr "Παρακολούθηση Αρχείων Καταγραφής Email"
+
+#: includes/translations.php:197
+msgid "This field is used to allow Email Logs to monitor or not"
+msgstr ""
+"Αυτό το πεδίο χρησιμοποιείται για την επιτροπή παρακολούθησης των Αρχείων "
+"Καταγραφής Email ή όχι"
+
+#: includes/translations.php:200
+msgid "Show Mail Booster Menu"
+msgstr "Προβολή Mενού Mail Booster"
+
+#: includes/translations.php:201
+msgid "Please choose a specific role who can see Sidebar Menu"
+msgstr ""
+"Παρακαλώ επιλέξτε ένα συγκεκριμένο ρόλο όπου θα μπορεί να δει την Πλάγια "
+"Μπάρα Μενού"
+
+#: includes/translations.php:202
+msgid "Administrator"
+msgstr "Διαχειριστής"
+
+#: includes/translations.php:203
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: includes/translations.php:204
+msgid "Editor"
+msgstr "Εκδότης"
+
+#: includes/translations.php:205
+msgid "Contributor"
+msgstr "Συνεργάτης"
+
+#: includes/translations.php:206
+msgid "Subscriber"
+msgstr "Συνδρομητής"
+
+#: includes/translations.php:207
+msgid "Others"
+msgstr "Άλλοι"
+
+#: includes/translations.php:208
+msgid "Show Mail Booster Top Bar Menu"
+msgstr "Προβολή Πάνω Μπάρας Μενού Mail Booster"
+
+#: includes/translations.php:209
+msgid "Please choose a specific option from Mail Booster Top Bar Menu"
+msgstr ""
+"Παρακαλώ επιλέξτε μια συγκεκριμένη επιλογή για την Πάνω Μπάρα Μενού του Mail "
+"Booster"
+
+#: includes/translations.php:210
+msgid "An Administrator Role can do the following "
+msgstr "Ο Ρόλος του Διαχειριστή μπορεί να κάνει τα ακόλουθα"
+
+#: includes/translations.php:211
+msgid "Please choose specific page available for the Administrator Access"
+msgstr ""
+"Παρακαλώ επιλέξτε ποιες σελίδες θα είναι διαθέσιμες για τον ρόλο του "
+"Διαχειριστή"
+
+#: includes/translations.php:212
+msgid "Full Control"
+msgstr "Πλήρης Έλεγχος"
+
+#: includes/translations.php:213
+msgid "An Author Role can do the following "
+msgstr "Ο Ρόλος του Συγγραφέα μπορεί να κάνει τα ακόλουθα"
+
+#: includes/translations.php:214
+msgid "Please choose specific page available for Author Access"
+msgstr ""
+"Παρακαλώ επιλέξτε ποιες σελίδες θα είναι διαθέσιμες για τον ρόλο του "
+"Συγγραφέα"
+
+#: includes/translations.php:215
+msgid "An Editor Role can do the following "
+msgstr "Ο Ρόλος του Εκδότη μπορεί να κάνει τα ακόλουθα"
+
+#: includes/translations.php:216
+msgid "Please choose specific page available for Editor Access"
+msgstr ""
+"Παρακαλώ επιλέξτε ποιες σελίδες θα είναι διαθέσιμες για τον ρόλο του Εκδότη"
+
+#: includes/translations.php:217
+msgid "A Contributor Role can do the following "
+msgstr "Ο Ρόλος του Συνεργάτη μπορεί να κάνει τα ακόλουθα"
+
+#: includes/translations.php:218
+msgid "Please choose specific page available for Contributor Access"
+msgstr ""
+"Παρακαλώ επιλέξτε ποιες σελίδες θα είναι διαθέσιμες για τον ρόλο του "
+"Συνεργάτη"
+
+#: includes/translations.php:219
+msgid "Other Roles can do the following "
+msgstr "Στον Ρόλο Άλλοι μπορούν να κάνουν τα ακόλουθα"
+
+#: includes/translations.php:220
+msgid "Please choose specific page available for Others Role Access"
+msgstr "Παρακαλώ επιλέξτε ποιες σελίδες θα είναι διαθέσιμες για τον Ρόλο Άλλοι"
+
+#: includes/translations.php:221
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Παρακαλώ επιλέξτε τις κατάλληλες δυνατότητες για σκοπούς ασφαλείας"
+
+#: includes/translations.php:222
+msgid "Only users with these capabilities can access Mail Booster"
+msgstr "Μόνο χρήστες με αυτές τις δυνατότητες έχουν πρόσβαση στο Mail Booster"
+
+#: includes/translations.php:223
+msgid "A Subscriber Role can do the following"
+msgstr "Ο Ρόλος του Συνδρομητή μπορεί να κάνει τα ακόλουθα"
+
+#: includes/translations.php:224
+msgid "Please choose specific page available for Subscriber Access"
+msgstr ""
+"Παρακαλώ επιλέξτε ποιες σελίδες θα είναι διαθέσιμες για τον ρόλο του "
+"Συνδρομητή"
+
+#: includes/translations.php:227
+msgid "Thank You!"
+msgstr "Σας Ευχαριστώ!"
+
+#: includes/translations.php:228
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Αν έχετε την ευγενή καλοσύνη, συμπληρώστε την παρακάτω φόρμα εάν θέλετε να "
+"προτείνετε κάποια χαρακτηριστικά τα οποία δεν υπάρχουν στο πρόσθετο"
+
+#: includes/translations.php:229
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Εάν έχετε επίσης οποιαδήποτε πρόταση/παράπονο, μπορείτε να χρησιμοποιήστε "
+"την ίδια φόρμα παρακάτω"
+
+#: includes/translations.php:230
+msgid "You can also write us on"
+msgstr "Μπορείτε επίσης να μας γράψετε στο "
+
+#: includes/translations.php:231
+msgid "Your Name"
+msgstr "Το Όνομα σας"
+
+#: includes/translations.php:232
+msgid "Please provide your Name which will be sent along with your Feedback"
+msgstr ""
+"Παρακαλώ εισάγετε το Όνομα το οποίο θα αποσταλεί μαζί με την Ανατροφοδότηση "
+"σας"
+
+#: includes/translations.php:233
+msgid "Please provide your Name"
+msgstr "Παρακαλώ εισάγετε το Όνομα σας"
+
+#: includes/translations.php:234
+msgid "Your Email"
+msgstr "Το Email σας"
+
+#: includes/translations.php:235
+msgid ""
+"Please provide your Email Address which will be sent along with your Feedback"
+msgstr ""
+"Παρακαλώ εισάγετε τη διεύθυνση Email η οποία θα αποσταλεί μαζί με την "
+"Ανατροφοδότηση σας"
+
+#: includes/translations.php:236
+msgid "Please provide your Email Address"
+msgstr "Παρακαλώ εισάγετε τη διεύθυνση του Email σας"
+
+#: includes/translations.php:237
+msgid "Please provide your Feedback which will be sent along"
+msgstr "Παρακαλώ εισάγετε την Ανατροφοδότηση που θα θέλετε να αποσταλεί"
+
+#: includes/translations.php:238
+msgid "Please provide your Feedback"
+msgstr "Παρακαλώ την εισάγετε Ανατροφοδότηση σας"
+
+#: includes/translations.php:239
+msgid "Send Feedback"
+msgstr "Αποστολή Ανατροφοδότησης"
+
+#: includes/translations.php:242
+msgid "Sending Test Email to"
+msgstr "Αποστολή Δοκιμαστικού Email σε"
+
+#: includes/translations.php:243
+msgid "Email Status"
+msgstr "Κατάσταση Email"
+
+#: includes/translations.php:244
+msgid "Test Email"
+msgstr "Δοκιμή Email"
+
+#: includes/translations.php:247
+msgid "Error Logs"
+msgstr ""
+
+#: includes/translations.php:248
+msgid "Output"
+msgstr ""
+
+#: includes/translations.php:249
+msgid "Download Error Logs"
+msgstr ""
+
+#: includes/translations.php:250
+msgid "Clear Error Logs"
+msgstr ""
+
+#: includes/translations.php:251
+msgid "In this field,you would be able to see all PHP Errors"
+msgstr ""
+
+#: includes/translations.php:252
+msgid "Error logs has been cleared Successfully"
+msgstr ""
+
+#~ msgid "If you would like to translate in "
+#~ msgstr "Αν θα θέλατε να μεταφράσετε το"
+
+#~ msgid ""
+#~ " & help us, we will reward you with a free Personal Edition License of "
+#~ "Mail Booster. If Interested, Kindly click "
+#~ msgstr ""
+#~ "& Να μας βοηθήσει, θα σας ανταμείψει με ένα δωρεάν Personal License "
+#~ "έκδοση του Mail Booster. Αν ενδιαφέρεστε, κάντε κλικ Ευγενικά"
+
+#~ msgid "here"
+#~ msgstr "εδώ"
+
+#~ msgid "Are you sure you want to close without sending Translation Request?"
+#~ msgstr ""
+#~ "Είστε βέβαιοι ότι θέλετε να κλείσετε χωρίς την αποστολή Αίτησης "
+#~ "Μετάφρασης;"
+
+#~ msgid "Translation Request"
+#~ msgstr "Αίτησης μετάφρασης"
+
+#~ msgid "Language Interested to Translate"
+#~ msgstr "Γλώσσα ενδιαφερόμενοι Μετάφραση"
+
+#~ msgid "Please choose a language which you want to translate"
+#~ msgstr "Παρακαλώ επιλέξτε μια γλώσσα που θέλετε να μεταφράσετε"
+
+#~ msgid "Please provide a language"
+#~ msgstr "Γλώσσα ενδιαφερόμενοι Μετάφραση"
+
+#~ msgid "Query"
+#~ msgstr "Σχόλια"
+
+#~ msgid "Please provide your query"
+#~ msgstr "Παρακαλώ παρέχετε το ερώτημά σας"
+
+#~ msgid "Please provide your Email"
+#~ msgstr "Παρακαλώ εισάγετε τη διεύθυνση του Email σας"
+
+#~ msgid "Send Request"
+#~ msgstr "Στείλε αίτημα"
+
+#~ msgid "* Click "
+#~ msgstr "* Κλίκ"
+
+#~ msgid "here "
+#~ msgstr "εδώ"
+
+#~ msgid " to see Premium Edition Features in detail"
+#~ msgstr "για να δείτε Premium Edition Χαρακτηριστικά αναλυτικά"
+
+#~ msgid "* For Mail Booster Demos, click "
+#~ msgstr "* Για Άντρας Booster Demos, κάντε κλικ στην επιλογή"
+
+#~ msgid "* For Mail Booster User Guide for this page, click "
+#~ msgstr ""
+#~ "* Για Mail Booster Οδηγός χρήστη για αυτήν τη σελίδα, κάντε κλικ στην "
+#~ "επιλογή"
+
+#~ msgid "* Filters "
+#~ msgstr "* Φίλτρα"
+
+#~ msgid "* Reply to, Cc and Bcc Fields "
+#~ msgstr "* Απάντηση, Κοιν και Bcc πεδία"
+
+#~ msgid "* Deleting Email Logs "
+#~ msgstr "* Διαγραφή Email Logs"
+
+#~ msgid "* Debugging Output"
+#~ msgstr "* Εντοπισμού σφαλμάτων εξόδου"
+
+#~ msgid "* Email Logs Details "
+#~ msgstr "Αρχείο Καταγραφής Email"
+
+#~ msgid "* Saving Roles & Capabilities "
+#~ msgstr "* Εξοικονόμηση Ρόλοι & Δυνατότητες"
+
+#~ msgid " Premium Edition Features :"
+#~ msgstr "Premium Edition Χαρακτηριστικά:"
+
+#~ msgid "Licensing"
+#~ msgstr "Αδειοδότηση"
+
+#~ msgid "Your License has been activated Successfully"
+#~ msgstr "Η Άδεια σας έχει ενεργοποιηθεί με Επιτυχία"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Σημαντική Ανακοίνωση!"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Booster Personal "
+#~ "Edition and now you would need to activate the license in order to unlock "
+#~ "it!"
+#~ msgstr ""
+#~ "Συγχαρητήρια! Είχατε αγοράσει πρόσφατα την Personal Edition του Mail "
+#~ "Booster και τώρα θα χρειαστεί να ενεργοποιήστε την άδεια προκειμένου να "
+#~ "την ξεκλειδώσετε!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Εάν έχετε την ευγενή καλοσύνη, συμπληρώστε τις λεπτομέρειες που "
+#~ "απαιτούνται και κάντε κλικ στο Επικύρωση Άδειας για να την ξεκλειδώσετε"
+
+#~ msgid ""
+#~ "If you face any issues activating the license, you may contact us at "
+#~ msgstr ""
+#~ "Εάν αντιμετωπίσετε οποιοδήποτε πρόβλημα κατά την ενεργοποίηση της άδειά "
+#~ "σας, μπορείτε να επικοινωνήσετε μαζί μας στο "
+
+#~ msgid "Product Name"
+#~ msgstr "Όνομα Προϊόντος"
+
+#~ msgid "Current Version"
+#~ msgstr "Τρέχων Έκδοση"
+
+#~ msgid "Website URL"
+#~ msgstr "URL Ιστοσελίδας"
+
+#~ msgid "Order ID"
+#~ msgstr "ID Παραγγελίας"
+
+#~ msgid "API KEY"
+#~ msgstr "Κλειδί API"
+
+#~ msgid "Validate License"
+#~ msgstr "Επικύρωση Άδειας"
+
+#~ msgid "This field shows your Installed Product"
+#~ msgstr "Αυτό το πεδίο δείχνει το Εγκατεστημένο Προϊόν σας"
+
+#~ msgid "This field shows your Installed Product Version"
+#~ msgstr "Αυτό το πεδίο δείχνει την Έκδοση του Εγκατεστημένου Προϊόντος σας"
+
+#~ msgid "This field shows your Website URL"
+#~ msgstr "Αυτό το πεδίο δείχνει το URL της Ιστοσελίδας σας"
+
+#~ msgid ""
+#~ "Please provide your Order ID  which you have received after purchasing "
+#~ "the Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Παρακαλώ εισάγετε το ID της Παραγγελίας που παραλάβατε αφού αγοράσατε το "
+#~ "προϊόν. Αυτό θα χρησιμοποιηθεί για την Επικύρωση της Άδειας "
+
+#~ msgid ""
+#~ "Please provide your API Key which you have received after purchasing the "
+#~ "Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Παρακαλώ εισάγετε το Κλειδί API που παραλάβατε αφού αγοράσατε το προϊόν. "
+#~ "Αυτό θα χρησιμοποιηθεί για την Επικύρωση της Άδειας"
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr ""
+#~ "Παρακαλώ εισάγετε το ΙD της Παραγγελίας που παραλάβατε αφού κάνατε την "
+#~ "αγορά"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr ""
+#~ "Παρακαλώ εισάγετε το Κλειδί API που παραλάβατε αφού κάνατε την αγορά"
+
+#~ msgid " Features available in Business and Developer Editions :"
+#~ msgstr ""
+#~ "Χαρακτηριστικά που είναι διαθέσιμα σε επιχειρήσεις και προγραμματιστές "
+#~ "Εκδόσεις:"
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Editions! <br> "
+#~ "Kindly Purchase to unlock it!."
+#~ msgstr ""
+#~ "Αυτή η λειτουργία είναι διαθέσιμη μόνο σε επιχειρήσεις και "
+#~ "προγραμματιστές εκδόσεις! <br> Ευγενικά αγορά για να το ξεκλειδώσετε !."
+
+#~ msgid "* Bulk Delete "
+#~ msgstr "* Μαζική Διαγραφή"
+
+#~ msgid "* Debugging Output "
+#~ msgstr "Έξοδος Εντοπισμού Σφαλμάτων"
+
+#~ msgid "Mail Bank"
+#~ msgstr "Mail Bank"
+
+#~ msgid "Email Setup"
+#~ msgstr "Ρύθμιση Email"
+
+#~ msgid "Email Setup has been updated Successfully"
+#~ msgstr "Η ρύθμιση του Email έχει ενημερωθεί με Επιτυχία"
+
+#~ msgid "* Openssl extension not found or disabled"
+#~ msgstr "* Η επέκταση Openssl δεν βρέθηκε ή έχει απενεργοποιηθεί"
+
+#~ msgid "Show Mail Bank Menu"
+#~ msgstr "Προβολή Mενού Mail Bank"
+
+#~ msgid "Show Mail Bank Top Bar Menu"
+#~ msgstr "Προβολή Πάνω Μπάρας Μενού Mail Bank"
+
+#~ msgid "Please choose a specific option from Mail Bank Top Bar Menu"
+#~ msgstr ""
+#~ "Παρακαλώ επιλέξτε μια συγκεκριμένη επιλογή για την Πάνω Μπάρα Μενού του "
+#~ "Mail Bank"
+
+#~ msgid "Only users with these capabilities can access Mail Bank"
+#~ msgstr "Μόνο χρήστες με αυτές τις δυνατότητες έχουν πρόσβαση στο Mail Bank"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Mail Bank Business Edition "
+#~ "and now you would need to activate the license in order to unlock it!"
+#~ msgstr ""
+#~ "Συγχαρητήρια! Είχατε αγοράσει πρόσφατα την Business Edtion του Mail Bank "
+#~ "και τώρα θα χρειαστεί να ενεργοποιήστε την άδεια προκειμένου να την "
+#~ "ξεκλειδώσετε!"

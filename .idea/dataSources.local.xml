@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - libar@localhost" uuid="182bf5da-6840-4f40-a2d4-ad981940fcbd">
+      <secret-storage>master_key</secret-storage>
+      <user-name>hrvojeA</user-name>
+      <schema-pattern>libar.*</schema-pattern>
+      <default-schemas>libar.*</default-schemas>
+    </data-source>
+  </component>
+</project>

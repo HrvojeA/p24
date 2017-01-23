@@ -1,0 +1,148 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Drag and Drop Shopping Cart</title>
+	<link rel="stylesheet" href="htmldemodraganddrop.css" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+</head>
+<body>
+<div class="row">
+	<header class="col-xs-12 nav" style="">
+		<div class="col-xs-3" style=" margin-left:25px;;padding-top:12px;">
+			<img src="images/logo.png"/>
+		</div>
+	</header>
+</div>
+	<!-- icons from  http://www.iconfinder.net/search/?q=iconset:superpack | author site : http://officinadigitale.forumcommunity.net/-->
+	<div class="row bg">
+		<div class="col-md-2 products">
+
+
+			<ul id="product_list">
+				<li>Lights</li>
+				<li>Cameras</li>
+				<li>Security</li>
+			</ul>
+			<ul id="products">
+
+
+			<li><a class="item" href="#" id="imac" draggable="true">
+			<img src="images/imac.png" />
+			<div>
+				<p><strong>iMac</strong></p>
+				<p><strong>Price</strong>: <span>$1199.00</span></p>
+				<p><strong>Quantity</strong>: <span>10</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="iphone" draggable="true">
+			<img src="images/iphone.png" />
+			<div>
+				<p><strong>iPhone</strong></p>
+				<p><strong>Price</strong>: <span>$199.00</span></p>
+				<p><strong>Quantity</strong>: <span>16</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="appletv" draggable="true">
+			<img src="images/appletv.png" />
+			<div>
+				<p><strong>AppleTV</strong></p>
+				<p><strong>Price</strong>: <span>$299.00</span></p>
+				<p><strong>Quantity</strong>: <span>9</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="dislpay" draggable="true">
+			<img src="images/display.png" />
+			<div>
+				<p><strong>Cinema Display</strong></p>
+				<p><strong>Price</strong>: <span>$899.00</span></p>
+				<p><strong>Quantity</strong>: <span>4</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="nano" draggable="true">
+			<img src="images/nano.png" />
+			<div>
+				<p><strong>iPod Nano</strong></p>
+				<p><strong>Price</strong>: <span>$149.00</span></p>
+				<p><strong>Quantity</strong>: <span>20</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="macbook" draggable="true">
+			<img src="images/macbook.png" />
+			<div>
+				<p><strong>Macbook</strong></p>
+				<p><strong>Price</strong>: <span>$1199.00</span></p>
+				<p><strong>Quantity</strong>: <span>13</span></p>
+			</div>
+		</a></li>
+		<li><a class="item" href="#" id="mini" draggable="true">
+			<img src="images/mini.png" />
+			<div>
+				<p><strong>Mac Mini</strong></p>
+				<p><strong>Price</strong>: <span>$599.00</span></p>
+				<p><strong>Quantity</strong>: <span>18</span></p>
+			</div>
+		</a></li>
+	</ul>
+		</div>
+		<div class="col-md-8">
+			<div id="item-type-list-wrapper" class="col-md-4">
+				<div id="single-item" class="col-xs-12" style="text-align:center;border-bottom: 1px solid white;;">
+					<h3>Lights</h3>
+				</div>
+			<ul id="item-type-list">
+				<li id="1" class="list-item" draggable="true" style="border-bottom:2px solid #3476D5">
+              	  <div class="row">
+					  <div class="col-xs-4 item-image">
+						  <img style="height:60px;width:auto;" src="images/bulb.png"/>
+					  </div>
+					  <div class="col-xs-8 item-heading">
+						 <p class="item-name"> Smart LED Dimmable Light Bulb</p>
+						  <p class="item-price">35</p>
+					  </div>
+				  </div>
+				</li>
+				<li id="2"   draggable="true" class="list-item" style="border-bottom:2px solid #3476D5">
+					<div class="row">
+						<div class="col-xs-4 item-image">
+							<img style="height:60px;width:auto;" src="images/bulb.png"/>
+						</div>
+						<div class="col-xs-8 item-heading">
+							<p class="item-name">Smart LED Dimmable Light Bulb</p>
+							<p class="item-price">31 €</p>
+						</div>
+					</div>
+				</li>
+				<li class="list-item" style="border-bottom:2px solid #3476D5">
+					<div class="row">
+						<div class="col-xs-4 item-image">
+							<img style="height:60px;width:auto;" src="images/bulb.png"/>
+						</div>
+						<div class="col-xs-8 item-heading">
+							<p>Smart LED Dimmable Light Bulb</p>
+							<p class="item-price">35 €</p>
+						</div>
+					</div>
+				</li>
+			</ul>
+			</div>
+			<div  id="drop_zone"  class="col-md-8">
+
+			</div>
+		</div>
+		<div class="col-md-2 cart">
+			<div id="cart">
+		<h1>Shopping Cart</h1>
+		<ul></ul>
+		<p id="total"><strong>Total:</strong> $<span>0.00</span></p>
+		<h2>Drop here to add to cart</h2>
+	</div>
+		</div>
+	</div>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script src="jquery.ndd.js"></script>
+	<script src="jsdemodraganddrop.js"></script>
+</body>
+</html>
